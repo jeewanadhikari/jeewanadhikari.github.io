@@ -21,19 +21,18 @@ classes: wide
 
 **Time Slices:** Near future (2022–2051) and far future (2076–2099); flood damage assessed for present vs. future conditions.
 
-**Key Findings:** SSP2-4.5 shows steadily increasing rainfall and flood risk; SSP5-8.5 shows intense near-future flooding with a later decline. Maximum peak discharge was 2155.56 m³/s (SSP2-4.5, [...]
-<p></p>
-
+**Key Findings:** SSP2-4.5 shows steadily increasing rainfall and flood risk; SSP5-8.5 shows intense near-future flooding with a later decline. Maximum peak discharge was 2155.56 m³/s
+ <br> 
 **Methodological Flowchart of the Study**
 <img class="figure-img" src="/assets/images/methodology.png" alt="Methodology" style="width:600px; max-width:100%; height:auto; display:block; margin:0.5rem auto 0;">
-<p></p>
+ <br> 
 **HEC-RAS simulation using Rain-on-Grid approach**
 <img class="figure-img" src="/assets/images/Flood_output.png" alt="Flood_output" style="width:600px; max-width:100%; height:auto; display:block; margin:0.5rem auto 0;">
-<p></p>
-
+ <br> 
+ **Flood map present scenario**
 <img class="figure-img" src="/assets/images/flood_map_Present_scenrio_100_year_return_peroid.png" alt="Flood map present scenario (100-year return period)" style="width:600px; max-width:100%; height:auto; display:block; margin:0.5rem auto 0;">
-<p style="text-align:center; margin:0.25rem 0 1.5rem 0;"><em>Flood map present scenario (100-year return period)</em></p>
-
+ <br> 
+ <br> 
 ### Research and Capacity Strengthening for Enhancing Water Security in Kathmandu Valley
 
 **Study focus:** GIS map the pipe network and establish DMAs in Budhanilkantha Ward 10 to resolve pressure, leakage, and monitoring issues.
