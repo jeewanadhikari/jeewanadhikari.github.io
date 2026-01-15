@@ -38,8 +38,11 @@ classes: wide
 ### Research and Capacity Strengthening for Enhancing Water Security in Kathmandu Valley
 
 **Study focus:** GIS map the pipe network and establish DMAs in Budhanilkantha Ward 10 to resolve pressure, leakage, and monitoring issues.
+
 **Methodologies:** Applied geospatial analysis, population-based demand estimation, and Thiessen Polygon allocation to model and segment the distribution network.
+
 **Technical Implementation and Results:** Created five sub-DMAs and optimized hydraulic performance in WaterGEMS using PRVs and pipe adjustments to balance pressure and velocity.
+
 
 
 
