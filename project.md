@@ -3,6 +3,8 @@ title: "Projects"
 permalink: /project/
 layout: single
 author_profile: true
+classes: wide
+
 ---
 
 
