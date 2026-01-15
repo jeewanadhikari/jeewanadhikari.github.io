@@ -14,6 +14,7 @@ statistical and data-driven flood modeling in graduate research.
 ## Education
 - **B.E. Civil Engineering**, Pulchowk Campus, Tribhuvan University, Nepal (2025)
 
-- ![photo](/assets/images/Lantang.jpg)
+
+![photo](/assets/images/Lantang.jpg)
 
 *Caption: Captured during a crisp morning on the Langtang Trail (2025). The lighting here perfectly catches the transition of the valley floor as it opens up toward the high-altitude settlement of Kyanjin.*
