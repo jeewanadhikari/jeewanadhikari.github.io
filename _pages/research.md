@@ -1,6 +1,8 @@
 ---
-title: "Research: Model-data integration in hydrology"
+title: "Research"
 permalink: /research/
+layout: single
+author_profile: true
 ---
 
 ![model_data](/assets/images/model_data.png)
