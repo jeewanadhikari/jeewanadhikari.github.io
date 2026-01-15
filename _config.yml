@@ -1,28 +1,20 @@
 title: "Jeewan Adhikari"
 description: "Water Resources • Flood Modeling • GIS • Python"
 url: "https://jeewanadhikari.github.io"
-baseurl: ""  # keep empty for user site
+baseurl: ""
 
-remote_theme: "mmistakes/minimal-mistakes@4.26.2"
-
+remote_theme: "academicpages/academicpages"
 plugins:
   - jekyll-include-cache
-  - jekyll-sitemap
-  - jekyll-feed
 
-# Minimal Mistakes layout defaults
+# show sidebar profile on pages
 defaults:
   - scope:
       path: ""
     values:
-      layout: "single"
+      layout: single
       author_profile: true
-      read_time: false
-      comments: false
-      share: false
-      related: false
 
-# Sidebar profile (author)
 author:
   name: "Jeewan Adhikari"
   avatar: "/assets/images/profile.jpg"
@@ -34,21 +26,10 @@ author:
       url: "mailto:YOUR_EMAIL@example.com"
     - label: "GitHub"
       icon: "fab fa-github"
-      url: "https://github.com/YOUR_GITHUB"
+      url: "https://github.com/jeewanadhikari"
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/YOUR_LINKEDIN/"
     - label: "Google Scholar"
       icon: "fas fa-graduation-cap"
       url: "https://scholar.google.com/"
-
-# Navigation
-header_pages:
-  - _pages/about.md
-  - _pages/research.md
-  - _pages/publications.md
-  - _pages/teaching.md
-
-# Optional: enable a clean skin similar to AcademicPages vibe
-minimal_mistakes_skin: "default"
-  
