@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-## Research Experience 
+## Past Projects: 
 
 ### Flood hazard modeling of kathmandu valley under climate change scenarios 
 - **Study site:** Upper Bagmati Basin, Nepal
@@ -20,7 +20,7 @@ Flood risk in Kathmandu Valley is increasing due to rapid urbanization, inadequa
 ![floodmap](/assets/images/flood_map_Present_scenrio_100_year_return_peroid.png)
 *flood map Present scenrio 100 year return peroid.*
 
-### Hydroclimatology and extremes
+### Research and Capacity Strengthening for Enhancing Water Security in Kathmandu Valley
 - **Study focus:** droughts/floods, rainfall-runoff, uncertainty
 
 I’m interested in how climate-driven extremes shift hydrologic response, and how probabilistic and ML methods can improve prediction and risk assessment.
