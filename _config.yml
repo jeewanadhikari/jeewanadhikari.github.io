@@ -3,9 +3,10 @@ description: "Water Resources • Flood Modeling • GIS • Python"
 url: "https://jeewanadhikari.github.io"
 baseurl: ""
 
-remote_theme: "academicpages/academicpages"
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 plugins:
   - jekyll-include-cache
+  - jekyll-sitemap
 
 # show sidebar profile on pages
 defaults:
