@@ -27,7 +27,7 @@ classes: wide
 ![figures](/assets/images/methodology.png)
 * Methodological Flowchart of the Study*
   
-![figures](/assets/images/flood_output.png)
+![figures](/assets/images/Flood_output.png)
 * HEC-RAS Simulation using Rain on grid approach*
   
 ![floodmap](/assets/images/flood_map_Present_scenrio_100_year_return_peroid.png)
