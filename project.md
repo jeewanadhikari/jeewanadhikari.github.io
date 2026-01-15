@@ -30,7 +30,7 @@ classes: wide
 <img class="figure-img" src="/assets/images/Flood_output.png" alt="Flood_output">
 <p><em>HEC-RAS simulation using Rain-on-Grid approach</em></p>
 
-<img class="figure-img" src="/assets/images/flood_map_Present_scenario_100_year_return_period.png">
+<img class="figure-img" src="/assets/images/flood_map_Present_scenrio_100_year_return_peroid.png">
 <p><em>Flood map present scenario (100-year return period)</em></p>
 
 
