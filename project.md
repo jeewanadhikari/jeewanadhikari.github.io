@@ -27,7 +27,7 @@ classes: wide
 <img class="figure-img" src="/assets/images/methodology.png" alt="Methodology">
 <p><em>Methodological Flowchart of the Study</em></p>
 
-<img class="figure-img" src="/assets/images/Flood_output.png" alt="Flood output">
+<img class="figure-img" src="/assets/images/Flood_output.png" alt="Flood_output">
 <p><em>HEC-RAS simulation using Rain-on-Grid approach</em></p>
 
 <img class="figure-img" src="/assets/images/flood_map_Present_scenario_100_year_return_period.png" alt="Flood map">
