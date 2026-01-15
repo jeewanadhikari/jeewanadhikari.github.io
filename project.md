@@ -43,9 +43,15 @@ classes: wide
 
 **Technical Implementation and Results:** Created five sub-DMAs and optimized hydraulic performance in WaterGEMS using PRVs and pipe adjustments to balance pressure and velocity.
 
+![figures](/assets/images/Existing_network_characterization.png)
+* Existing Map charactarization of Mahankalchaur Branch*
 
 
-
+![figures](/assets/images/Final_pipe.png)
+* Final pipe velocity and junction pressure*
+  
+![figures](/assets/images/Final_DMA.png)
+* Final DMA layout of Budhanilkantha Ward-10*  
 
 ## Previous research
 ### GIS-based susceptibility mapping
